@@ -6,7 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ermivaldo-júnior-b190a122/)](https://www.linkedin.com/in/ermivaldo-júnior-b190a122/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dbajr)](https://twitter.com/dbajr)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/junim8801)](https://www.youtube.com/user/junim8801)
-https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-12100E?style=for-the-badge&logo=kaggle&logoColor=green)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ### About me
 
@@ -15,7 +16,7 @@ https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoC
 - 🌱 I’m currently learning ML and IA
 - 👯 I’m looking to collaborate on data science projects
 - 🤔 I’m looking for help with ML and IA
-- 💬 Ask me about Excel, SQL ...
+- 💬 Ask me about Excel, SQL, Data and ....
 - 📫 How to reach me: junior8801@gmail.com
 
 ### Tecnologies
