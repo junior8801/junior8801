@@ -20,7 +20,7 @@ https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoC
 
 ### Tecnologies
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[![Youtube Badge]https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white]
 https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white
 https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
