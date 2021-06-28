@@ -19,7 +19,7 @@
 - 💬 Ask me about Excel, SQL, Data and ....
 - 📫 How to reach me: junior8801@gmail.com
 
-### Tecnologies
+### Technologies
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
