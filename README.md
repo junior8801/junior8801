@@ -11,8 +11,7 @@
 
 ### About me
 
-- 🔭 I'm a data evangelist 
-- 🔭 I’m currently working on data analysis.
+- 🔭 I'm a data evangelist
 - 🌱 I’m currently learning ML and IA
 - 👯 I’m looking to collaborate on data science projects
 - 🤔 I’m looking for help with ML and IA
