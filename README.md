@@ -20,7 +20,10 @@
 
 ### Portfolio/Projects
 
-####[Web Scraping CVM Python](https://github.com/junior8801/Web_Scraping_CVM_Py)
+[Web Scraping CVM Python](https://github.com/junior8801/Web_Scraping_CVM_Py)
+. Web scraping data from CVM Market data.
+[Web Scraping CVM Python Ibov Shares](https://github.com/junior8801/Web_Scraping_CVM_Py_Selenium)
+. Web scraping data from CVM Market data. It's abou the companies from Ibov index.
 
 
 ### Technologies
