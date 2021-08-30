@@ -23,7 +23,7 @@
 [Web Scraping CVM Python](https://github.com/junior8801/Web_Scraping_CVM_Py)
 . Web scraping data from CVM Market data. </br>
 Using Pandas, Numpy, Kora, Selenium and Plotly Express. </br></br>
-[Web Scraping CVM Python Ibov Shares](https://github.com/junior8801/Web_Scraping_CVM_Py_Selenium)[(https://img.shields.io/badge/co-open%20in%20colab-blue&link=https://colab.research.google.com/github/junior8801/Web_Scraping_CVM_Py_Selenium/blob/main/Web_Scraping_CVM_Py_Selenium.ipynb)]
+[Web Scraping CVM Python Ibov Shares](https://github.com/junior8801/Web_Scraping_CVM_Py_Selenium)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/junior8801/Web_Scraping_CVM_Py_Selenium/blob/main/Web_Scraping_CVM_Py_Selenium.ipynb)
 . Web scraping data from CVM Market data. It's about the companies from Ibov index. </br>
 Using Pandas, Numpy, Kora, Selenium and Plotly Express. </br>
 
