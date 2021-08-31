@@ -21,7 +21,7 @@
 ### Portfolio/Projects
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/junior8801/Web_Scraping_CVM_Py/blob/main/Web_Scraping_CVM.ipynb)
-[Web Scraping CVM Python](https://github.com/junior8801/Web_Scraping_CVM_Py)
+[Web Scraping CVM Python](https://github.com/junior8801/Web_Scraping_CVM_Py) </br>
 . Web scraping data from CVM Market data. </br>
 Libs Pandas, Wget and ZipFile. 
 </br>
@@ -33,7 +33,7 @@ Libs Kora, Selenium and Plotly Express.
 </br>
 </br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/junior8801/PySpark/blob/main/PySpark.ipynb)
-[Using PySpark](https://github.com/junior8801/PySpark)
+[Using PySpark](https://github.com/junior8801/PySpark) </br>
 . Using PySpark to manipulate data. </br>
 Libs PySpark, Pandas, Wget and ZipFile. 
 </br>
